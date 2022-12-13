@@ -1,0 +1,1133 @@
+# Blender MTL File: 'Main_Scene.blend'
+# Material Count: 83
+
+newmtl Beech_Bark
+Ns 434.154041
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech bark_n.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech bark_d.png
+map_Ns K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech bark_r.png
+
+newmtl Beech_Leaves
+Ns 434.154041
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech leaf_n.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech leaf_d.png
+map_Ns K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech leaf_r.png
+map_d K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\beech leaf_d.png
+
+newmtl BusStation
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\BusStation_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\BusStation_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\BusStation_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\BusStation_Metallic.png
+
+newmtl Giant_Angular_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_A_Metallic.png
+
+newmtl Giant_Angular_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular-B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Angular_B_Metallic.png
+
+newmtl Giant_Facade_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_A_Metallic.png
+
+newmtl Giant_Facade_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Facade_B_Metallic.png
+
+newmtl Giant_Roof
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Roof_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Roof_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Roof_Angular_Roughness.png
+
+newmtl Giant_Roof_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Roof_Angular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Roof_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_Roof_Angular_Roughness.png
+
+newmtl Giant_ground
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_ground_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_ground_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_ground_Roughness.png
+
+newmtl Giant_ground_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_ground_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_ground_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Giant_ground_B_Roughness.png
+
+newmtl Glam_Angular_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_A_Metallic.png
+
+newmtl Glam_Angular_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Angular_B_Metallic.png
+
+newmtl Glam_Facade_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_A_Metallic.png
+
+newmtl Glam_Facade_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Facade_B_Metallic.png
+
+newmtl Glam_Ground
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_Metallic.png
+
+newmtl Glam_Ground_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Ground_B_Metallic.png
+
+newmtl Glam_Wall
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Metallic.png
+
+newmtl Glam_Wall_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_Wall_Angular_Metallic.png
+
+newmtl Glam_roof
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Metallic.png
+
+newmtl Glam_roof_angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Angular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Angular_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_Angular_Metallic.png
+
+newmtl Glam_roof_plane
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_plane_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_plane_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glam_roof_plane_Roughness.png
+
+newmtl Glass_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_angular_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_angular_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_angular_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_angular_A_Metallic.png
+
+newmtl Glass_Ground
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_Metallic.png
+
+newmtl Glass_Ground_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_angular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_angular_Roughness.png
+
+newmtl Glass_Ground_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Ground_B_Roughness.png
+
+newmtl Glass_Roof
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Metallic.png
+
+newmtl Glass_Roof_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Angular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Angular_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_Angular_Metallic.png
+
+newmtl Glass_facade_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_facade_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_facade_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_facade_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_facade_A_Metallic.png
+
+newmtl Glass_roof_plane
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_plane_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_plane_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Glass_Roof_plane_Roughness.png
+
+newmtl Ladder_A
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.504545 0.504545 0.504545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_A_Metallic.png
+
+newmtl Ladder_B
+Ns 205.010349
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.504545 0.504545 0.504545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_B_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Ladder_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ladder_B_Metallic.png
+
+newmtl Pipe
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Pipe_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Pipe_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Pipe_Metallic.png
+
+newmtl PipeBottom
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\PipeBottom_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\PipeBottom_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\PipeBottom_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\PipeBottom_Metallic.png
+
+newmtl Planter
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Planter_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Planter_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Planter_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Planter_Metallic.png
+
+newmtl Ross_Angular_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_A_Roughness.png
+
+newmtl Ross_Angular_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Angular_B_Metallic.png
+
+newmtl Ross_Facade_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_A_Metallic.png
+
+newmtl Ross_Facade_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Facade_B_Metallic.png
+
+newmtl Ross_Ground
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Metallic.png
+
+newmtl Ross_Ground_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Angular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Angular_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Ground_Angular_Metallic.png
+
+newmtl Ross_Roof
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Metallic.png
+
+newmtl Ross_Roof_Wall_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_Roof_Angular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_Roof_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_Roof_Angular_Roughness.png
+
+newmtl Ross_Roof_angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Angular_Norma.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Angular_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_Angular_Metallic.png
+
+newmtl Ross_Roof_plane
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_plane_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_plane_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Roof_plane_Roughness.png
+
+newmtl Ross_Wall_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_A_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_A_Roughness.png
+
+newmtl Ross_Wall_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_B_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_B_Roughness.png
+
+newmtl Ross_Wall_Roof
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_Roof_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_Roof_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_Wall_Roof_Roughness.png
+
+newmtl Ross_ground_wall
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_ground_wall_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_ground_wall_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Ross_ground_wall_Roughness.png
+
+newmtl Smith_Angular_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Angular_A_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Angular_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Angular_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Angular_A_Metallic.png
+
+newmtl Smith_Angular_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Angular_B_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Angular_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Angular_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Angular_B_Metallic.png
+
+newmtl Smith_Facade_A
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Facade_A_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Facade_A_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Facade_A_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Facade_A_Metallic.png
+
+newmtl Smith_Facade_B
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Facade_B_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Facade_B_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Facade_B_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Facade_B_Metallic.png
+
+newmtl Smith_Ground
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.200000 D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Ground_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Ground_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Ground_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Ground_Metallic.png
+
+newmtl Smith_Ground_Angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.200000 D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Ground_Angular_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Ground_Angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Ground_Angular_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Ground_Angular_Metallic.png
+
+newmtl Smith_Roof
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Roof_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_Metallic.png
+
+newmtl Smith_Roof_angular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_angular_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Roof_angular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_angular_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_angular_Metallic.png
+
+newmtl Smith_Roof_plane
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_plane_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Roof_plane_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_plane_Roughness.png
+
+newmtl Smith_Roof_wall
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_Wall_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Roof_Wall_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Roof_Wall_roughness.png
+
+newmtl Smith_Wall
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Wall_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_Wall_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_Wall_Roughness.png
+
+newmtl Smith_ground_wall
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_ground_wall_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Smith_ground_wall_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Smith_ground_wall_Roughness.png
+
+newmtl Street_Cross
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Cross_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Cross_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Cross_Roughness.png
+
+newmtl Street_Left
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Left_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Left_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Left_Roughness.png
+
+newmtl Street_Right
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Right_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Right_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Street_Right_Roughness.png
+
+newmtl airConditioner
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.504545 0.504545 0.504545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airConditioner_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airConditioner_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airConditioner_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airConditioner_Metallic.png
+
+newmtl airDuct_curve
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airDuct_curve_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\airDuct_curve_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airDuct_curve_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airDuct_curve_Metallic.png
+
+newmtl airDuct_main
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airDuct_main_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\airDuct_main_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airDuct_main_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\airDuct_main_Metallic.png
+
+newmtl bench
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\bench_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\bench_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\bench_Roughness.png
+
+newmtl concreteBarrier
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\concreteBarrier_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\concreteBarrier_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\concreteBarrier_Roughness.png
+
+newmtl manhole
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Manhole_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\Manhole_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Manhole_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\Manhole_Metallic.png
+
+newmtl metalBarrier
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\metalBarrier_base.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\metalBarrier_roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\metalBarrier_metalness.png
+
+newmtl roofGlass
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\roofGlass_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\roofGlass_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\roofGlass_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\roofGlass_Metallic.png
+
+newmtl sideWalk
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sideWalk_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sideWalk_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sideWalk_Roughness.png
+
+newmtl sideWalk_internal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sideWalk_internal_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sideWalk_internal_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sideWalk_internal_Roughness.png
+
+newmtl sidewalkAngular
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sidewalkAngular_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sidewalkAngular_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sidewalkAngular_Roughness.png
+
+newmtl sign_OneWay
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_OneWay_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_OneWay_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_OneWay_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_OneWay_Metallic.png
+
+newmtl sign_Stop
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_Stop_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_Stop_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_Stop_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_Stop_Metallic.png
+
+newmtl sign_noPark01
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark01_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark01_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark01_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark01_Metallic.png
+
+newmtl sign_noPark02
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark02_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark02_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark02_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\sign_noPark02_Metallic.png
+
+newmtl streetLamp
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\streetLamp_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\streetLamp_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\streetLamp_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\streetLamp_Metallic.png
+
+newmtl trafficLamp
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trafficLamp_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trafficLamp_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trafficLamp_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trafficLamp_Metallic.png
+
+newmtl trashbin
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trashbin_Normal.png
+map_Kd D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trashbin_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trashbin_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\trashbin_Metallic.png
+
+newmtl waterTower
+Ns 86.470579
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\waterTower_Normal.png
+map_Kd K:\\DEEZL\\Packs\\Manatthan Style Buildings Pack\\Textures 2k\\waterTower_BaseColor.png
+map_Ns D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\waterTower_Roughness.png
+refl D:\\1.STORAGE\\1.DEEZL STORAGE\\1.Manhattan\\Textures 2k\\waterTower_Metallic.png
