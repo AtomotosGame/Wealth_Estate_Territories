@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 11eb0bc7cc052ac4b8c0f5e00b0999b2
+timeCreated: 1478638043
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '# Arm Male L'
+    100002: '# Arm Male R'
+    100004: '[Helper] Arm Controller L'
+    100006: '[Helper] Arm Controller R'
+    100008: '[Helper] Arm Force Controller L'
+    100010: '[Helper] Arm Force Controller R'
+    100012: '[Helper] Camera.Point'
+    100014: '[Helper] Elbow Base L'
+    100016: '[Helper] Elbow Base R'
+    100018: '[Helper] Elbow Force L'
+    100020: '[Helper] Elbow Force R'
+    100022: '[Helper] Elbow Inner L'
+    100024: '[Helper] Elbow Inner R'
+    100026: '[Helper] G.Base'
+    100028: '[Helper] PAM'
+    100030: '[Helper] T.Base'
+    100032: '[Helper] T.Base.Target'
+    100034: '[Helper] Upper Force L'
+    100036: '[Helper] Upper Force R'
+    100038: '[Helper] Wrist  Force L'
+    100040: '[Helper] Wrist  Force R'
+    100042: '[Helper] Wrist Controller L'
+    100044: '[Helper] Wrist Controller R'
+    100046: '[Helper] Wrist ETM L'
+    100048: '[Helper] Wrist ETM R'
+    100050: '[Helper] Wrist IK L'
+    100052: '[Helper] Wrist IK R'
+    100054: Bullet_Mesh
+    100056: ChargingHandle_Controller
+    100058: ChargingHandle_Mesh
+    100060: Display 001
+    100062: Display 002
+    100064: Display 003
+    100066: DPT
+    100068: DPT.Target
+    100070: Dummy001
+    100072: Dummy002
+    100074: Event 001
+    100076: Event 002
+    100078: Event 003
+    100080: FOV.Camera
+    100082: FPSarms
+    100084: //RootNode
+    100086: Magazine_Controller
+    100088: Magazine_Mesh
+    100090: MainBody_Controller
+    100092: MainBody_Mesh
+    100094: O1
+    100096: O2
+    100098: Object001
+    100100: Object008
+    100102: PL1
+    100104: PL2
+    100106: PL3
+    100108: PL4
+    100110: PL5
+    100112: PL6
+    100114: PL7
+    100116: PL8
+    100118: PL9
+    100120: Sky
+    100122: ThingThatRotates_Controller
+    100124: ThingThatRotates_Mesh
+    100126: Trigger_Mesh
+    100128: x_arm_twist_l_1
+    100130: x_arm_twist_l_2
+    100132: x_arm_twist_l_3
+    100134: x_arm_twist_l_4
+    100136: x_arm_twist_r_1
+    100138: x_arm_twist_r_2
+    100140: x_arm_twist_r_3
+    100142: x_arm_twist_r_4
+    100144: x_forearm_l
+    100146: x_forearm_r
+    100148: x_forearm_twist_1_l
+    100150: x_forearm_twist_1_r
+    100152: x_forearm_twist_2_l
+    100154: x_forearm_twist_2_r
+    100156: x_forearm_twist_3_l
+    100158: x_forearm_twist_3_r
+    100160: x_forearm_twist_4_l
+    100162: x_forearm_twist_4_r
+    100164: x_i_1_l
+    100166: x_i_1_r
+    100168: x_i_2_l
+    100170: x_i_2_r
+    100172: x_i_3_l
+    100174: x_i_3_r
+    100176: x_i_4_l
+    100178: x_i_4_r
+    100180: x_index_l_1
+    100182: x_index_l_2
+    100184: x_index_l_3
+    100186: x_index_l_nub
+    100188: x_index_r_1
+    100190: x_index_r_2
+    100192: x_index_r_3
+    100194: x_index_r_nub
+    100196: x_m_1_l
+    100198: x_m_1_r
+    100200: x_m_2_l
+    100202: x_m_2_r
+    100204: x_m_3_l
+    100206: x_m_3_r
+    100208: x_m_4_l
+    100210: x_m_4_r
+    100212: x_middle_l_1
+    100214: x_middle_l_2
+    100216: x_middle_l_3
+    100218: x_middle_l_nub
+    100220: x_middle_r_1
+    100222: x_middle_r_2
+    100224: x_middle_r_3
+    100226: x_middle_r_nub
+    100228: x_p_1_l
+    100230: x_p_1_r
+    100232: x_p_2_l
+    100234: x_p_2_r
+    100236: x_p_3_l
+    100238: x_p_3_r
+    100240: x_p_4_l
+    100242: x_p_4_r
+    100244: x_palm_base_l
+    100246: x_palm_base_r
+    100248: x_palm_l
+    100250: x_palm_r
+    100252: x_pinky_l_1
+    100254: x_pinky_l_2
+    100256: x_pinky_l_3
+    100258: x_pinky_l_nub
+    100260: x_pinky_r_1
+    100262: x_pinky_r_2
+    100264: x_pinky_r_3
+    100266: x_pinky_r_nub
+    100268: x_r_1_l
+    100270: x_r_1_r
+    100272: x_r_2_l
+    100274: x_r_2_r
+    100276: x_r_3_l
+    100278: x_r_3_r
+    100280: x_r_4_l
+    100282: x_r_4_r
+    100284: x_ring_l_1
+    100286: x_ring_l_2
+    100288: x_ring_l_3
+    100290: x_ring_l_nub
+    100292: x_ring_r_1
+    100294: x_ring_r_2
+    100296: x_ring_r_3
+    100298: x_ring_r_nub
+    100300: x_sleeve_l
+    100302: x_sleeve_r
+    100304: x_t_1_l
+    100306: x_t_1_r
+    100308: x_t_2_l
+    100310: x_t_2_r
+    100312: x_t_3_l
+    100314: x_t_3_r
+    100316: x_t_4_l
+    100318: x_t_4_r
+    100320: x_thumb_l_1
+    100322: x_thumb_l_2
+    100324: x_thumb_l_3
+    100326: x_thumb_l_nub
+    100328: x_thumb_r_1
+    100330: x_thumb_r_2
+    100332: x_thumb_r_3
+    100334: x_thumb_r_nub
+    100336: x_upper_l
+    100338: x_upper_r
+    100340: x_wrist_l
+    100342: x_wrist_l 1
+    100344: x_wrist_r
+    100346: x_wrist_r 1
+    400000: '# Arm Male L'
+    400002: '# Arm Male R'
+    400004: '[Helper] Arm Controller L'
+    400006: '[Helper] Arm Controller R'
+    400008: '[Helper] Arm Force Controller L'
+    400010: '[Helper] Arm Force Controller R'
+    400012: '[Helper] Camera.Point'
+    400014: '[Helper] Elbow Base L'
+    400016: '[Helper] Elbow Base R'
+    400018: '[Helper] Elbow Force L'
+    400020: '[Helper] Elbow Force R'
+    400022: '[Helper] Elbow Inner L'
+    400024: '[Helper] Elbow Inner R'
+    400026: '[Helper] G.Base'
+    400028: '[Helper] PAM'
+    400030: '[Helper] T.Base'
+    400032: '[Helper] T.Base.Target'
+    400034: '[Helper] Upper Force L'
+    400036: '[Helper] Upper Force R'
+    400038: '[Helper] Wrist  Force L'
+    400040: '[Helper] Wrist  Force R'
+    400042: '[Helper] Wrist Controller L'
+    400044: '[Helper] Wrist Controller R'
+    400046: '[Helper] Wrist ETM L'
+    400048: '[Helper] Wrist ETM R'
+    400050: '[Helper] Wrist IK L'
+    400052: '[Helper] Wrist IK R'
+    400054: Bullet_Mesh
+    400056: ChargingHandle_Controller
+    400058: ChargingHandle_Mesh
+    400060: Display 001
+    400062: Display 002
+    400064: Display 003
+    400066: DPT
+    400068: DPT.Target
+    400070: Dummy001
+    400072: Dummy002
+    400074: Event 001
+    400076: Event 002
+    400078: Event 003
+    400080: FOV.Camera
+    400082: FPSarms
+    400084: //RootNode
+    400086: Magazine_Controller
+    400088: Magazine_Mesh
+    400090: MainBody_Controller
+    400092: MainBody_Mesh
+    400094: O1
+    400096: O2
+    400098: Object001
+    400100: Object008
+    400102: PL1
+    400104: PL2
+    400106: PL3
+    400108: PL4
+    400110: PL5
+    400112: PL6
+    400114: PL7
+    400116: PL8
+    400118: PL9
+    400120: Sky
+    400122: ThingThatRotates_Controller
+    400124: ThingThatRotates_Mesh
+    400126: Trigger_Mesh
+    400128: x_arm_twist_l_1
+    400130: x_arm_twist_l_2
+    400132: x_arm_twist_l_3
+    400134: x_arm_twist_l_4
+    400136: x_arm_twist_r_1
+    400138: x_arm_twist_r_2
+    400140: x_arm_twist_r_3
+    400142: x_arm_twist_r_4
+    400144: x_forearm_l
+    400146: x_forearm_r
+    400148: x_forearm_twist_1_l
+    400150: x_forearm_twist_1_r
+    400152: x_forearm_twist_2_l
+    400154: x_forearm_twist_2_r
+    400156: x_forearm_twist_3_l
+    400158: x_forearm_twist_3_r
+    400160: x_forearm_twist_4_l
+    400162: x_forearm_twist_4_r
+    400164: x_i_1_l
+    400166: x_i_1_r
+    400168: x_i_2_l
+    400170: x_i_2_r
+    400172: x_i_3_l
+    400174: x_i_3_r
+    400176: x_i_4_l
+    400178: x_i_4_r
+    400180: x_index_l_1
+    400182: x_index_l_2
+    400184: x_index_l_3
+    400186: x_index_l_nub
+    400188: x_index_r_1
+    400190: x_index_r_2
+    400192: x_index_r_3
+    400194: x_index_r_nub
+    400196: x_m_1_l
+    400198: x_m_1_r
+    400200: x_m_2_l
+    400202: x_m_2_r
+    400204: x_m_3_l
+    400206: x_m_3_r
+    400208: x_m_4_l
+    400210: x_m_4_r
+    400212: x_middle_l_1
+    400214: x_middle_l_2
+    400216: x_middle_l_3
+    400218: x_middle_l_nub
+    400220: x_middle_r_1
+    400222: x_middle_r_2
+    400224: x_middle_r_3
+    400226: x_middle_r_nub
+    400228: x_p_1_l
+    400230: x_p_1_r
+    400232: x_p_2_l
+    400234: x_p_2_r
+    400236: x_p_3_l
+    400238: x_p_3_r
+    400240: x_p_4_l
+    400242: x_p_4_r
+    400244: x_palm_base_l
+    400246: x_palm_base_r
+    400248: x_palm_l
+    400250: x_palm_r
+    400252: x_pinky_l_1
+    400254: x_pinky_l_2
+    400256: x_pinky_l_3
+    400258: x_pinky_l_nub
+    400260: x_pinky_r_1
+    400262: x_pinky_r_2
+    400264: x_pinky_r_3
+    400266: x_pinky_r_nub
+    400268: x_r_1_l
+    400270: x_r_1_r
+    400272: x_r_2_l
+    400274: x_r_2_r
+    400276: x_r_3_l
+    400278: x_r_3_r
+    400280: x_r_4_l
+    400282: x_r_4_r
+    400284: x_ring_l_1
+    400286: x_ring_l_2
+    400288: x_ring_l_3
+    400290: x_ring_l_nub
+    400292: x_ring_r_1
+    400294: x_ring_r_2
+    400296: x_ring_r_3
+    400298: x_ring_r_nub
+    400300: x_sleeve_l
+    400302: x_sleeve_r
+    400304: x_t_1_l
+    400306: x_t_1_r
+    400308: x_t_2_l
+    400310: x_t_2_r
+    400312: x_t_3_l
+    400314: x_t_3_r
+    400316: x_t_4_l
+    400318: x_t_4_r
+    400320: x_thumb_l_1
+    400322: x_thumb_l_2
+    400324: x_thumb_l_3
+    400326: x_thumb_l_nub
+    400328: x_thumb_r_1
+    400330: x_thumb_r_2
+    400332: x_thumb_r_3
+    400334: x_thumb_r_nub
+    400336: x_upper_l
+    400338: x_upper_r
+    400340: x_wrist_l
+    400342: x_wrist_l 1
+    400344: x_wrist_r
+    400346: x_wrist_r 1
+    2300000: Bullet_Mesh
+    2300002: ChargingHandle_Mesh
+    2300004: Magazine_Mesh
+    2300006: MainBody_Mesh
+    2300008: Object001
+    2300010: Object008
+    2300012: ThingThatRotates_Mesh
+    2300014: Trigger_Mesh
+    3300000: Bullet_Mesh
+    3300002: ChargingHandle_Mesh
+    3300004: Magazine_Mesh
+    3300006: MainBody_Mesh
+    3300008: Object001
+    3300010: Object008
+    3300012: ThingThatRotates_Mesh
+    3300014: Trigger_Mesh
+    4300000: '# Arm Male R'
+    4300002: '# Arm Male L'
+    4300004: Magazine_Mesh
+    4300006: Bullet_Mesh
+    4300008: MainBody_Mesh
+    4300010: Object008
+    4300012: ChargingHandle_Mesh
+    4300014: ThingThatRotates_Mesh
+    4300016: Object001
+    4300018: Trigger_Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: '# Arm Male L'
+    13700002: '# Arm Male R'
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
