@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Ciconia Studio/Double Sided/Emissive/Diffuse" {
+Shader "Studio/Double Sided/Emissive/Diffuse" {
     Properties {
         _Diffusecolor ("Diffuse color", Color) = (1,1,1,1)
         _MainTex ("Diffuse Map", 2D) = "white" {}

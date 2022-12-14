@@ -81,7 +81,7 @@ public class RMCRealisticMotorcycleController : MonoBehaviour {
 
 	//Particles
 	public GameObject WheelSlipPrefab;
-	private List <GameObject> WheelParticles = new List<GameObject>();
+	public List <GameObject> WheelParticles = new List<GameObject>();
 	public ParticleSystem[] normalExhaustGas;
 	public ParticleSystem[] heavyExhaustGas;
 
@@ -378,18 +378,18 @@ public class RMCRealisticMotorcycleController : MonoBehaviour {
 			
 			FrontWheelCollider.GetGroundHit( out CorrespondingGroundHit0 );
 			if(Mathf.Abs(CorrespondingGroundHit0.sidewaysSlip) > .25f || Mathf.Abs(CorrespondingGroundHit0.forwardSlip) > .5f ){
-				WheelParticles[0].GetComponent<ParticleSystem>().enableEmission = true;
+				// WheelParticles[0].GetComponent<ParticleSystem>().enableEmission = true;
 				// ParticleSystem ps = WheelParticles[0].GetComponent<ParticleSystem>();
         		// ps.emission.enabled = true;
 			}else{ 
-				WheelParticles[0].GetComponent<ParticleSystem>().enableEmission = false;
+				// WheelParticles[0].GetComponent<ParticleSystem>().enableEmission = false;
 			}
 			
 			RearWheelCollider.GetGroundHit( out CorrespondingGroundHit1 );
 			if(Mathf.Abs(CorrespondingGroundHit1.sidewaysSlip) > .25f || Mathf.Abs(CorrespondingGroundHit1.forwardSlip) > .5f ){
-				WheelParticles[1].GetComponent<ParticleSystem>().enableEmission = true;
+				// WheelParticles[1].GetComponent<ParticleSystem>().enableEmission = true;
 			}else{ 
-				WheelParticles[1].GetComponent<ParticleSystem>().enableEmission = false;
+				// WheelParticles[1].GetComponent<ParticleSystem>().enableEmission = false;
 				// ParticleSystem ps = WheelParticles[1].GetComponent<ParticleSystem>();
         		// ps.emission.enabled = true;
 			}
@@ -398,23 +398,23 @@ public class RMCRealisticMotorcycleController : MonoBehaviour {
 		
 		if(normalExhaustGas.Length > 0){
 
-			foreach(ParticleSystem pe in normalExhaustGas){
-				if(Speed < 20)
-					pe.enableEmission = true;
-				else
-					pe.enableEmission = false;
-			}
+			// foreach(ParticleSystem pe in normalExhaustGas){
+			// 	if(Speed < 20)
+			// 		pe.enableEmission = true;
+			// 	else
+			// 		pe.enableEmission = false;
+			// }
 
 		}
 		
 		if(heavyExhaustGas.Length > 0){
 			
-			foreach(ParticleSystem pe in heavyExhaustGas){
-				if(Speed < 20 && motorInput > .5f)
-					pe.enableEmission = true;
-				else
-					pe.enableEmission = false;
-			}
+			// foreach(ParticleSystem pe in heavyExhaustGas){
+			// 	if(Speed < 20 && motorInput > .5f)
+			// 		pe.enableEmission = true;
+			// 	else
+			// 		pe.enableEmission = false;
+			// }
 			
 		}
 		
