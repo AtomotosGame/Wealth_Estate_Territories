@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 Shader "Hidden/Twist Effect" {
 Properties {
 	_MainTex ("Base (RGB)", 2D) = "white" {}
@@ -8,10 +10,12 @@ SubShader
 	Pass
 	{
 		ZTest Always Cull Off ZWrite Off
+		Fog { Mode off }
 
 CGPROGRAM
 #pragma vertex vert
 #pragma fragment frag
+#pragma fragmentoption ARB_precision_hint_fastest 
 
 #include "UnityCG.cginc"
 
@@ -24,7 +28,7 @@ uniform float _Angle;
 uniform float4 _CenterRadius;
 
 struct v2f {
-	float4 pos : SV_POSITION;
+	float4 pos : POSITION;
 	float2 uv : TEXCOORD0;
 	float2 uvOrig : TEXCOORD1;
 };
@@ -39,7 +43,7 @@ v2f vert (appdata_img v)
 	return o;
 }
 
-float4 frag (v2f i) : SV_Target
+float4 frag (v2f i) : COLOR
 {
 	float2 offset = i.uvOrig;
 	float angle = 1.0 - length(offset / _CenterRadius.zw);
@@ -53,7 +57,7 @@ float4 frag (v2f i) : SV_Target
 	uv.y = sinLength * offset[0] + cosLength * offset[1];
 	uv += _CenterRadius.xy;
 	
-	return tex2D(_MainTex, UnityStereoScreenSpaceUVAdjust(uv, _MainTex_ST));
+	return tex2D(_MainTex, uv);
 }
 ENDCG
 
