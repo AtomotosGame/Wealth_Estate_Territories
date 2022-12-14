@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 Shader "Hidden/FisheyeShader" {
 	Properties {
 		_MainTex ("Base (RGB)", 2D) = "" {}
@@ -9,13 +11,12 @@ Shader "Hidden/FisheyeShader" {
 	#include "UnityCG.cginc"
 	
 	struct v2f {
-		float4 pos : SV_POSITION;
+		float4 pos : POSITION;
 		float2 uv : TEXCOORD0;
 	};
 	
 	sampler2D _MainTex;
-	half4 _MainTex_ST;
-
+	
 	float2 intensity;
 	
 	v2f vert( appdata_img v ) 
@@ -26,7 +27,7 @@ Shader "Hidden/FisheyeShader" {
 		return o;
 	} 
 	
-	half4 frag(v2f i) : SV_Target 
+	half4 frag(v2f i) : COLOR 
 	{
 		half2 coords = i.uv;
 		coords = (coords - 0.5) * 2.0;		
@@ -35,7 +36,7 @@ Shader "Hidden/FisheyeShader" {
 		realCoordOffs.x = (1-coords.y * coords.y) * intensity.y * (coords.x); 
 		realCoordOffs.y = (1-coords.x * coords.x) * intensity.x * (coords.y);
 		
-		half4 color = tex2D (_MainTex, UnityStereoScreenSpaceUVAdjust(i.uv - realCoordOffs, _MainTex_ST));
+		half4 color = tex2D (_MainTex, i.uv - realCoordOffs);	 
 		
 		return color;
 	}
@@ -45,8 +46,10 @@ Shader "Hidden/FisheyeShader" {
 Subshader {
  Pass {
 	  ZTest Always Cull Off ZWrite Off
+	  Fog { Mode off }      
 
       CGPROGRAM
+      #pragma fragmentoption ARB_precision_hint_fastest 
       #pragma vertex vert
       #pragma fragment frag
       ENDCG

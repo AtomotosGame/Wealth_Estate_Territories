@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Ciconia Studio/Double Sided/Transparent/Diffuse Bump Cutout" {
+Shader "Studio/Double Sided/Transparent/Diffuse Bump Cutout" {
     Properties {
         _Diffusecolor ("Diffuse color", Color) = (1,1,1,1)
         _MainTex ("Diffuse Map (Cutout A)", 2D) = "white" {}
