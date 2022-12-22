@@ -389,6 +389,7 @@ public class MASAIBrain : MonoBehaviour {
                             {
                                 if (!AI_CarAction.GetIn)
                                 {
+                                    
                                     agent.SetDestination(FollowTarget.transform.position);
                                     agent.stoppingDistance = (KeepDistance) * 0.5f;
 
